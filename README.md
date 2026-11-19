@@ -6,7 +6,7 @@ I studied computer science at RIT and left in January 2026 to build full time: m
 
 I'm looking for a full-time role or an internship, in software or hardware. France, the EU, remote or the US.
 
-[Site](https://oliviercouthaud.com) · [CV](https://oliviercouthaud.com/cv) · [LinkedIn](https://www.linkedin.com/in/olivier-couthaud)
+[Site](https://oliviercouthaud.com) · [CV](https://oliviercouthaud.com/cv) · [LinkedIn](https://www.linkedin.com/in/olivier-couthaud) · [For agents](https://oliviercouthaud.com/agents)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-blue-dark.png"><img src="assets/divider-blue-light.png" width="100%" alt="A band of blue dots in two rows, between two black brush rules that swell in the middle and thin out at both ends."></picture>
 
@@ -34,7 +34,7 @@ I'm looking for a full-time role or an internship, in software or hardware. Fran
 <td width="50%" valign="top">
 <a href="https://oliviercouthaud.com/picotalon"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/panel-picotalon-dark.png"><img src="assets/panel-picotalon-light.png" width="100%" alt="An orange 3D-printed RC plane with its tail angled in a V, assembled on a table. In a black-bordered comic panel with red dots behind it and a yellow tab that reads PICOTALON."></picture></a>
 <br><b><a href="https://oliviercouthaud.com/picotalon">PicoTalon</a></b> · In progress
-<br>A 905 mm RC plane, 3D printed in pieces and assembled, 400 g with battery. Waiting on its electronics; it has not flown yet.
+<br>A 905 mm RC plane, 3D printed in pieces, wired and bench-tested, 850 g ready to fly. Its first two hand launches crashed on 7 November; I am rebuilding the nose and tail.
 </td>
 </tr>
 </table>
@@ -51,5 +51,5 @@ I'm looking for a full-time role or an internship, in software or hardware. Fran
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dot-4-dark.png"><img src="assets/dot-4.png" height="14" alt="A white disc."></picture> **[VOS](https://oliviercouthaud.com/vos)** · Prototype · [code](https://github.com/Forkei/VOS-public). A team of AI agents behind a desktop-style app, by text and phone call. Built with Roman Slack, who designed the app. I built the SDK every agent runs on, the API gateway and the primary agent; the voice gateway is shared work. No automated tests.
 
-Most of this has no public repository, so the names link to their pages. More public code: [mtg-ai](https://github.com/Forkei/mtg-ai), [drone-rl](https://github.com/Forkei/drone-rl). [All 38 projects](https://oliviercouthaud.com/projects).
+Most of this has no public repository, so the names link to their pages. More public code: [mtg-ai](https://github.com/Forkei/mtg-ai), [drone-rl](https://github.com/Forkei/drone-rl). [All projects](https://oliviercouthaud.com/projects).
 
